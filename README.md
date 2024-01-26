@@ -45,5 +45,5 @@ Should be supported, but no testing has been done yet.
 ## Installation
 
 ```
-pip install git+https://gitub.com/st0rmw1ndz/progpath.git
+pip install git+https://github.com/st0rmw1ndz/progpath.git
 ```
