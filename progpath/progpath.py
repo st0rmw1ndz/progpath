@@ -57,11 +57,3 @@ def user_cache_path(prog: Optional[str] = None) -> Path:
     if not prog:
         return path
     return path.joinpath(prog)
-
-
-print(user_cache_path())
-print(user_config_path())
-print(user_data_path())
-print(user_cache_path("balls"))
-print(user_config_path("balls"))
-print(user_data_path("balls"))
