@@ -1,6 +1,6 @@
 # progpath
 
-![Python application test](https://github.com/st0rmw1ndz/progpath/workflows/Python%20application%20test/badge.svg)
+![Python application test](https://github.com/st0rmw1ndz/progpath/workflows/progpath/badge.svg)
 
 A convenient way to store your program's data.
 
