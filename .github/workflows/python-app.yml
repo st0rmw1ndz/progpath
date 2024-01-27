@@ -1,4 +1,4 @@
-name: progpath
+name: CI
 
 on: [push]
 
