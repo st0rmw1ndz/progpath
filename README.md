@@ -1,6 +1,9 @@
 # progpath
 
-![Python application test](https://github.com/st0rmw1ndz/progpath/workflows/progpath/badge.svg)
+[![License](https://img.shields.io/github/license/st0rmw1ndz/progpath)](https://github.com/st0rmw1ndz/progpath/blob/main/LICENSE)
+[![GitHub tag](https://img.shields.io/github/v/tag/st0rmw1ndz/progpath)](https://github.com/st0rmw1ndz/progpath/releases)
+[![Actions status](https://github.com/st0rmw1ndz/progpath/workflows/progpath/badge.svg)](https://github.com/st0rmw1ndz/progpath/actions)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
 A convenient way to store your program's data.
 
